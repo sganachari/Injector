@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+  Generating code
+  5 of 5 functions (100.0%) were compiled.
+    3 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  pyaload.vcxproj -> D:\Projects\visual_studio\Injector\Injector\x64\Release\payload.dll
